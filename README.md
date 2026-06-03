@@ -50,7 +50,7 @@ A fast, sharp side-scrolling arcade shooter built to run on anything.
 
 * ⚡ **Fluid rendering** via React Native Skia, frame-perfect movement at any speed
 * 👾 **Escalating enemy waves** with intentional difficulty curves and gap spacing
-* 🏙️ **Street-level visuals** inspired by Atlanta's Edgewood Avenue
+* 🏙️ **Street-level visuals** inspired by Atlanta's Alien Allure
 * 🔓 **Earn everything through play**, no paywalls
 * 🎵 Soundtrack and art style rooted in real culture
 
