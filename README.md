@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-**A side-scrolling arcade shooter for Android — built to bring back that feeling.**
+**A side-scrolling arcade shooter for Android, built to bring back that feeling.**
 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Framework](https://img.shields.io/badge/React_Native-Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -22,15 +22,15 @@
 
 ---
 
-## The Origin
+## ## The Origin
 
 **2012.** Freshly graduated, but the boredom started long before that.
 
-Being a teenager meant two modes: bored in class or bored at home. One evening after school I made a trade — iPhone out, Android in, a hundred bucks in hand. Sat down, scrolled through the phone, spotted a game that came pre-installed. Clicked it open out of curiosity.
+Being a teenager meant two modes: bored in class or bored at home. One evening after school, I made a trade: iPhone out, Android in, a hundred bucks in hand. Sat down, scrolled through the phone, and spotted a game that came pre-installed. Clicked it open out of curiosity.
 
 That was it. Hooked from the first session.
 
-Within weeks the game was everywhere. Everyone was playing it in the halls, at lunch, on the bus. Something that started as a random click after a dull afternoon had become a cultural moment for an entire generation of teens.
+Within weeks, the game was everywhere. Everyone was playing it in the halls, at lunch, on the bus. Something that started as a random click after a dull afternoon had become a cultural moment for an entire generation of teens.
 
 That feeling never left me.
 
@@ -38,9 +38,9 @@ That feeling never left me.
 
 ## The Mission
 
-XENOFALL is built to give that feeling back — not a remake, not nostalgia bait. A new game that hits the same nerve: immediately playable, instantly addictive, the kind of thing you find on a random Tuesday and can't put down by Thursday.
+XENOFALL is built to give that feeling back. Not a remake. Not nostalgia bait. A new game that hits the same nerve: immediately playable, instantly addictive, the kind of thing you find on a random Tuesday and can't put down by Thursday.
 
-> *If one kid picks up XENOFALL on a boring evening and it plants something in them — a curiosity about how games are built, a spark toward making something of their own — that's the real win.*
+> *If one kid picks up XENOFALL on a boring evening and it plants something in them, a curiosity about how games are built, a spark toward making something of their own, that's the real win.*
 
 ---
 
@@ -48,30 +48,30 @@ XENOFALL is built to give that feeling back — not a remake, not nostalgia bait
 
 A fast, sharp side-scrolling arcade shooter built to run on anything.
 
-- ⚡ **Fluid rendering** via React Native Skia — frame-perfect movement at any speed
-- 👾 **Escalating enemy waves** with intentional difficulty curves and gap spacing
-- 🏙️ **Street-level visuals** — environment inspired by Atlanta's Edgewood Avenue
-- 🔓 **Earn everything through play**, no paywalls
-- 🎵 Soundtrack and art style rooted in real culture
+* ⚡ **Fluid rendering** via React Native Skia, frame-perfect movement at any speed
+* 👾 **Escalating enemy waves** with intentional difficulty curves and gap spacing
+* 🏙️ **Street-level visuals** inspired by Atlanta's Edgewood Avenue
+* 🔓 **Earn everything through play**, no paywalls
+* 🎵 Soundtrack and art style rooted in real culture
 
 ---
 
 ## Stack
 
-| Layer | Technology |
-|---|---|
-| Framework | React Native + Expo |
-| Language | TypeScript |
-| Rendering | React Native Skia |
-| State Management | Zustand |
-| Backend | Firebase |
-| Monetization | RevenueCat |
+| Layer            | Technology          |
+| ---------------- | ------------------- |
+| Framework        | React Native + Expo |
+| Language         | TypeScript          |
+| Rendering        | React Native Skia   |
+| State Management | Zustand             |
+| Backend          | Firebase            |
+| Monetization     | RevenueCat          |
 
 ---
 
 ## Project Structure
 
-```
+```text
 xenofall/
 ├── src/
 │   ├── game/
@@ -111,12 +111,12 @@ npx expo run:android
 
 ## Development Status
 
-| Phase | Description | Status |
-|---|---|---|
-| Phase 1 | Core game loop, camera, enemy systems | ✅ Complete |
+| Phase   | Description                              | Status         |
+| ------- | ---------------------------------------- | -------------- |
+| Phase 1 | Core game loop, camera, enemy systems    | ✅ Complete     |
 | Phase 2 | Level design, wave config, boss patterns | 🔄 In Progress |
-| Phase 3 | Audio, VFX, polish pass | 🔜 Upcoming |
-| Phase 4 | Beta testing, Play Store submission | 🔜 Upcoming |
+| Phase 3 | Audio, VFX, polish pass                  | 🔜 Upcoming    |
+| Phase 4 | Beta testing, Play Store submission      | 🔜 Upcoming    |
 
 ---
 
@@ -125,6 +125,7 @@ npx expo run:android
 **Tahzjeen-Amir** — designer, developer, and a kid who once traded a phone for a hundred dollars and accidentally found a reason to build things.
 
 ---
+
 
 <div align="center">
 
